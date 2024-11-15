@@ -33,5 +33,5 @@ I'm a Full Stack Web Developer from Indonesia 🇮🇩
 
 ---
 ### 🔥 Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=adrieljss&theme=dark&background=000000) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adrieljss&theme=dark&background=000000)](https://github-readme-stats.vercel.app/api?username=adrieljss&show_icons=true&theme=dark&bg_color=000000) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrieljss&layout=compact&theme=vision-friendly-dark)
