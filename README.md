@@ -11,7 +11,7 @@
 I'm a Full Stack Web Developer from Indonesia 🇮🇩
 - 📖 Currently in High School
 - ☎️ Contact me in Discord `1mmunity`
-- 🥇 Does Competitive Programming for Olympiads (especially Indonesia's NOI) [Codeforces](https://codeforces.com/profile/adrielcp), [AtCoder](https://atcoder.jp/users/adrielcp), [TLX](https://tlx.toki.id/profiles/AdrielJ)
+- 🥇 Indonesian NOI Bronze Winner 2024
 - 🤝 Open to any collaborations
 - ❤️ Love doing frontends and design as much as backends
 
