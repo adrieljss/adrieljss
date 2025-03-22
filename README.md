@@ -8,7 +8,7 @@
 
 ---
 ### 👨‍💻 About Me
-I'm a Full Stack Developer from Indonesia 🇮🇩
+I'm a Full Stack Developer from Indonesia.
 - 📖 Currently in High School
 - ☎️ Contact me in Discord `1mmunity`
 - 🥇 Indonesian National Olympiad in Informatics (NOI) Bronze Winner 2024, Finalist 2023
