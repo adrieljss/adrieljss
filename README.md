@@ -16,7 +16,9 @@ I'm a passionate Full Stack Developer from Indonesia.
 - ❤️ Love doing frontends and design as much as backends
 
 ### My Open Source Standards
-I believe that "vibe coding" (using AI to fix/implement/write codes and then just running it to see if it works) when working on open source projects will diminish the quality of the codes of that project accumulatively.  
+I believe that "vibe coding" (using AI to fix/implement/write codes and then just running it to see if it works) when working on open source projects will diminish the quality of the codes of that project accumulatively.
+
+I am not denying the abilities of AI for the future of software development, but I do not think it is ready yet.
 
 Therefore, I promise that my codes on open sourcing will be written, reviewed, and refactored by me and not by any other AI softwares to provide good quality codes for all parties involved. 
 
