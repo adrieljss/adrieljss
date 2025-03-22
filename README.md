@@ -15,14 +15,14 @@ I'm a passionate Full Stack Developer from Indonesia.
 - 🤝 Open to any collaborations
 - ❤️ Love doing frontends and design as much as backends
 
-### My Open Source Standards
+<!-- ### My Open Source Standards
 I believe that "vibe coding" (using AI to fix/implement/write codes and then just running it to see if it works) when working on open source projects will diminish the quality of the codes of that project accumulatively.
 
 I am not denying the abilities of AI for the future of software development, but I do not think it is ready yet.
 
 Therefore, I promise that my codes on open sourcing will be written, reviewed, and refactored by me and not by any other AI softwares to provide good quality codes for all parties involved. 
 
-Even though I am not a native English speaker, I will try to be professional and use proper English as much I can when open-sourcing, but I'm sorry if there's any communication issues.
+Even though I am not a native English speaker, I will try to be professional and use proper English as much I can when open-sourcing, but I'm sorry if there's any communication issues.-->
 
 ---
 ### 🛠️ Main Programming Languages
