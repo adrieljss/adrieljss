@@ -8,12 +8,13 @@
 
 ---
 ### 👨‍💻 About Me
-I'm a Full Stack Web Developer from Indonesia 🇮🇩
+I'm a Full Stack Developer from Indonesia 🇮🇩
 - 📖 Currently in High School
 - ☎️ Contact me in Discord `1mmunity`
-- 🥇 Indonesian NOI Bronze Winner 2024
+- 🥇 Indonesian National Olympiad in Informatics (NOI) Bronze Winner 2024, Finalist 2023
 - 🤝 Open to any collaborations
 - ❤️ Love doing frontends and design as much as backends
+- ❌ Anti vibe-coding
 
 ---
 ### 🛠️ Main Programming Languages
