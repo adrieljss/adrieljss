@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://github.com/adrieljss.png" width="200px" />
 <h3>
-  Hi, my name is Adriel aka 1mmunity
+  Hi, my name is Jansen, formerly known as 1mmunity.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 </div>
