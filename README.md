@@ -1,14 +1,14 @@
 <div id="header" align="center">
     <img src="https://github.com/adrieljss.png" width="200px" />
 <h3>
-  Hi, my name is Jansen, formerly known as 1mmunity.
+  Hi, my name is Jansen.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 </div>
 
 ---
 ### About Me
-I'm a passionate Developer from Indonesia. I have been coding since I was 12.
+I'm a passionate Developer from Indonesia. I have been coding since I was 12. Formerly [1mmunity](https://github.com/1mmunity).
 - 📖 Age 17. Currently studying in National University of Singapore (NUS).
 - ☎️ Contact me in Discord `1mmunity`
 - 🥇 Indonesian National Olympiad in Informatics (NOI) 2nd Bronze Winner 2024, Finalist 2023
