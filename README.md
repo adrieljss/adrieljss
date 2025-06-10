@@ -9,7 +9,7 @@
 ---
 ### About Me
 I'm a passionate Developer from Indonesia. I have been coding since I was 12. Formerly [1mmunity](https://github.com/1mmunity).
-- 📖 Age 17. Currently studying in National University of Singapore (NUS).
+- 📖 Age 17. Currently studying in National University of Singapore (NUS)
 - ☎️ Contact me in Discord `1mmunity`
 - 🥇 Indonesian National Olympiad in Informatics (NOI) 2nd Bronze Winner 2024, Finalist 2023
 - 🤝 Open to any collaborations
